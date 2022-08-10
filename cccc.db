@@ -1,0 +1,89 @@
+CCCC_Module@ActionEvent@@
+CCCC_Module@ActionListener@@
+CCCC_Module@Frame@class@
+CCCC_ModExt@Frame@class@Frame.java@3@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Module@Handler@class@
+CCCC_ModExt@Handler@class@Frame.java@39@definition@?????@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Module@JButton@@
+CCCC_Module@JFrame@@
+CCCC_Module@JLabel@@
+CCCC_Module@JTextField@@
+CCCC_Module@Main@class@
+CCCC_ModExt@Main@class@Main.java@76@definition@?????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Module@MyThread@class@
+CCCC_ModExt@MyThread@class@Main.java@5@definition@?????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Module@MyThread2@class@
+CCCC_ModExt@MyThread2@class@Main.java@42@definition@?????@LOC:3 COM:0 MVG:0@?@d@
+CCCC_Module@Scanner@@
+CCCC_Module@String@@
+CCCC_Module@String[]@@
+CCCC_Module@TelephoneIndex@class@
+CCCC_ModExt@TelephoneIndex@class@TelephoneIndex.java@5@definition@?????@LOC:8 COM:0 MVG:1@?@d@
+CCCC_Module@Thread@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@Frame@Frame@@()@
+CCCC_MemExt@Frame@Frame@@()@Frame.java@7@definition@????0@LOC:2 COM:0 MVG:0@?@d@
+CCCC_Member@Frame@Frame@@(String)@
+CCCC_MemExt@Frame@Frame@@(String)@Frame.java@10@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@Frame@main@void@(String[])@
+CCCC_MemExt@Frame@main@void@(String[])@Frame.java@47@definition@????0@LOC:8 COM:0 MVG:0@?@d@
+CCCC_Member@Frame@setComponent@void@()@
+CCCC_MemExt@Frame@setComponent@void@()@Frame.java@14@definition@????0@LOC:25 COM:0 MVG:0@?@d@
+CCCC_Member@Handler@actionPerformed@void@(ActionEvent)@
+CCCC_MemExt@Handler@actionPerformed@void@(ActionEvent)@Frame.java@40@definition@????0@LOC:6 COM:0 MVG:0@?@d@
+CCCC_Member@Main@main@void@(String[])@
+CCCC_MemExt@Main@main@void@(String[])@Main.java@78@definition@????0@LOC:7 COM:0 MVG:0@?@d@
+CCCC_Member@MyThread2@prime@void@()@
+CCCC_MemExt@MyThread2@prime@void@()@Main.java@44@definition@????0@LOC:25 COM:0 MVG:6@?@d@
+CCCC_Member@MyThread2@run@void@()@
+CCCC_MemExt@MyThread2@run@void@()@Main.java@70@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@MyThread@febo@void@()@
+CCCC_MemExt@MyThread@febo@void@()@Main.java@8@definition@????0@LOC:27 COM:0 MVG:2@?@d@
+CCCC_Member@MyThread@run@void@()@
+CCCC_MemExt@MyThread@run@void@()@Main.java@36@definition@????0@LOC:4 COM:0 MVG:0@?@d@
+CCCC_Member@TelephoneIndex@TelephoneIndex@@()@
+CCCC_MemExt@TelephoneIndex@TelephoneIndex@@()@TelephoneIndex.java@8@definition@?????@LOC:5 COM:0 MVG:0@?@d@
+CCCC_Member@TelephoneIndex@display_first_chars@void@(TelephoneIndex[])@
+CCCC_MemExt@TelephoneIndex@display_first_chars@void@(TelephoneIndex[])@TelephoneIndex.java@33@definition@?????@LOC:5 COM:0 MVG:1@?@d@
+CCCC_Member@TelephoneIndex@display_full@void@(TelephoneIndex[])@
+CCCC_MemExt@TelephoneIndex@display_full@void@(TelephoneIndex[])@TelephoneIndex.java@22@definition@?????@LOC:10 COM:0 MVG:2@?@d@
+CCCC_Member@TelephoneIndex@input@void@()@
+CCCC_MemExt@TelephoneIndex@input@void@()@TelephoneIndex.java@14@definition@?????@LOC:7 COM:0 MVG:0@?@d@
+CCCC_UseRel@JButton@Frame@
+CCCC_UseExt@JButton@Frame@Frame.java@6@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@JFrame@Frame@
+CCCC_UseExt@JFrame@Frame@Frame.java@3@extends@????0@*@?@I@
+CCCC_UseRel@JLabel@Frame@
+CCCC_UseExt@JLabel@Frame@Frame.java@4@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@JTextField@Frame@
+CCCC_UseExt@JTextField@Frame@Frame.java@5@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@Frame@
+CCCC_UseExt@String@Frame@Frame.java@10@normal parameter@????0@*@?@p@
+CCCC_UseExt@String@Frame@Frame.java@47@normal parameter@????0@*@?@p@
+CCCC_UseRel@ActionEvent@Handler@
+CCCC_UseExt@ActionEvent@Handler@Frame.java@40@normal parameter@????0@*@?@p@
+CCCC_UseRel@ActionListener@Handler@
+CCCC_UseExt@ActionListener@Handler@Frame.java@39@implements@????0@*@?@I@
+CCCC_UseRel@String[]@Main@
+CCCC_UseExt@String[]@Main@Main.java@78@normal parameter@????0@*@?@p@
+CCCC_UseRel@Thread@MyThread@
+CCCC_UseExt@Thread@MyThread@Main.java@5@extends@????0@*@?@I@
+CCCC_UseRel@Thread@MyThread2@
+CCCC_UseExt@Thread@MyThread2@Main.java@42@extends@????0@*@?@I@
+CCCC_UseRel@Scanner@TelephoneIndex@
+CCCC_UseExt@Scanner@TelephoneIndex@TelephoneIndex.java@7@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_UseRel@String@TelephoneIndex@
+CCCC_UseExt@String@TelephoneIndex@TelephoneIndex.java@6@member variable@?????@LOC:0 COM:0 MVG:0@?@h@
+CCCC_RejExt@Frame.java@1@<file scope items>@?????@LOC:2 COM:0 MVG:0@?@r@
+CCCC_RejExt@Main.java@1@<file scope items>@?????@LOC:2 COM:0 MVG:0@?@r@
